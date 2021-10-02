@@ -1,4 +1,8 @@
 ### 👋 Hello. I'm @rmkv95014/Rohith 
+I am a sophomore from Monta Vista High School.
+### 🌱 I’m currently learning Web-development, Web-scraping and AI.
+Feel free to contact me @rohith.krithivasan@gmail.com
+### 👯 I’m looking to collaborate on AI and Web-related projects.
 
 <!--
 **rmkv95014/rmkv95014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
