@@ -1,7 +1,7 @@
 ### 👋 Hello. I'm @rmkv95014/Rohith 
 I am a sophomore from Monta Vista High School.
+### I am interested in Mathematics, Physics and Software Development.
 ### 🌱 I’m currently learning Web-development, Web-scraping and AI.
-Feel free to contact me @rohith.krithivasan@gmail.com
 ### 👯 I’m looking to collaborate on AI and Web-related projects.
 
 <!--
